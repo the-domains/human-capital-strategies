@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Client login
-datePublished: '2016-05-19T02:42:07.053Z'
-dateModified: '2016-05-19T02:39:32.262Z'
+datePublished: '2016-05-19T02:51:44.871Z'
+dateModified: '2016-05-19T02:51:00.165Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-httpsd6darwinetcomdnet455clientasp.md
@@ -17,6 +17,9 @@ url: httpsd6darwinetcomdnet455clientasp/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4878d5af-6115-4735-81fd-728d869fa350.jpg)
+
+  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f81ab757-7be6-4e99-81b5-3b99e15e5adb.png)
 
 [Client login][0]
