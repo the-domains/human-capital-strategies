@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Client login
-datePublished: '2016-05-19T02:58:55.042Z'
-dateModified: '2016-05-19T02:58:39.386Z'
+datePublished: '2016-05-19T03:00:07.947Z'
+dateModified: '2016-05-19T02:59:54.086Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-httpsd6darwinetcomdnet455clientasp.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: httpsd6darwinetcomdnet455clientasp/index.html
 _type: Article
 
