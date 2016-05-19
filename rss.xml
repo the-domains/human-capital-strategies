@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Human Capital Strategies]]></title>
         <description><![CDATA[Human Capital Strategies]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/human-capital-strategies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 02:36:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 02:42:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/human-capital-strategies/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f81ab757-7be6-4e99-81b5-3b99e15e5adb.png">]]></description>
-            <link>undefinedhttpsd6darwinetcomdnet455clientasp/index.html</link>
+            <link>https://thegrid.ai/human-capital-strategies/httpsd6darwinetcomdnet455clientasp/index.html</link>
             <guid isPermaLink="false">53027515-dd45-41f6-bdcf-141a75986411</guid>
-            <pubDate>Thu, 19 May 2016 02:36:31 GMT</pubDate>
+            <pubDate>Thu, 19 May 2016 02:42:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
